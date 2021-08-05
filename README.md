@@ -32,7 +32,7 @@ SGMP function will return the path set according to given map. This code can be 
    execTime – A history of execution time for creating each path \
    dag – A Directed Acyclic Graph created by SGMP 
 
-   map – A map specified in the binary square matrix [Download] \
+   map – A map specified in the binary square matrix [Code](https://github.com/CAU-AIR-Lab/Cave) \
    sp – The index of starting node \
    dp – The index of destination node \
    setSize – The number of paths to be created from DAG \
