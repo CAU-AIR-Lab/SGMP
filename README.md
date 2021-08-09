@@ -11,7 +11,7 @@ Experimental results comparing genetic algorithms with conventional initializati
 This program is designed to generate initial path set for genetic algorithm-based robot path planning.
 
 ### [Paper]
-Jaesung Lee and Dae-Won Kim, [An Effective Initialization Method for Genetic Algorithm-based Robot Path Planning using a Directed Acyclic Graph](https://www.sciencedirect.com/science/article/pii/S0020025515007847),
+Jaesung Lee and Dae-Won Kim, ["An Effective Initialization Method for Genetic Algorithm-based Robot Path Planning using a Directed Acyclic Graph,"](https://www.sciencedirect.com/science/article/pii/S0020025515007847)
 Information Sciences, 332(1):1-18, 2016
 Entropy, 2020
 
